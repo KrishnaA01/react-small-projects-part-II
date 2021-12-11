@@ -23,6 +23,6 @@
 #### useState and Conditional Rendering
 - [x] 6. Tabs 
 - [x] 7. Slider
-- [] 8. Lorem-Ipsum
-- [] 9. Color-Generator
+- [ ] 8. Lorem-Ipsum
+- [ ] 9. Color-Generator
 
